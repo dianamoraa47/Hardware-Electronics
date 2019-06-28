@@ -1,0 +1,19 @@
+vsi grnd x
+vdd 5v
+v0 pinpot
+r1 &
+rw grnd
+E  7
+00.07 data pins
+A   5v
+K   grnd
+
+fig wat whats rE
+d0 to d3 u connect em wires
+u connect potential meters
+one poternti will ctrl the brightness screec
+1st pin of potential connect to 5v
+
+
+
+connect the to the - side next to 5vside+pin
